@@ -1,3 +1,6 @@
 sample about
 
-edit locally
+
+edite from server
+new line edited to the server
+
